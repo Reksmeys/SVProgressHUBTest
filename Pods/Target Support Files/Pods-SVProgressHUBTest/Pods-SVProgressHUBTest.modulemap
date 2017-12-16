@@ -1,0 +1,6 @@
+framework module Pods_SVProgressHUBTest {
+  umbrella header "Pods-SVProgressHUBTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
